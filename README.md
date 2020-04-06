@@ -18,6 +18,11 @@ Purple |	35 |	|	|	Purple |	45|
 Cyan |	36 |	|	|	Cyan |	46|
 White |	37 |	|	|	White |	47|
 
+#### Usage
+Reset: '\033[m]'
+1x code: '\033[codem]'
+2x code: '\033[code;codem]'
+
 ## Revision History
 * Initial Release : 01 Apr 2020
 * This version has been adapted: Mr Med Ali Mortadha DAHMANI, MAMD-2020.
