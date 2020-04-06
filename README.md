@@ -7,6 +7,7 @@
 
 
 Text color |	Code |	Text style |	Code |	Background color |	Code|
+-------------|-------------|------------|------------|------------|------------|
 Black |	30 |	No effect |	0 |	Black |	40|
 Red |	31 |	Bold |	1 |	Red |	41|
 Green |	32 	Underline |	2 |	Green |	42|
