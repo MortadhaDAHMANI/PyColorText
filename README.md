@@ -23,6 +23,11 @@ White |	37 |	|	|	White |	47|
 * 1x code: '\033[codem]'
 * 2x code: '\033[code;codem]'
 
+### Useful links
+* [SublimeANSI](https://github.com/aziz/SublimeANSI "SublimeANSI")
+* [ANSI Escapecodes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html "ANSI Escapecodes")
+* [API](https://coloredlogs.readthedocs.io/en/latest/api.html "API")
+
 ## Revision History
 * Initial Release : 01 Apr 2020
 * This version has been adapted: Mr Med Ali Mortadha DAHMANI, MAMD-2020.
