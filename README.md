@@ -10,7 +10,7 @@ Text color |	Code |	Text style |	Code |	Background color |	Code|
 -------------|-------------|------------|------------|------------|------------|
 Black |	30 |	No effect |	0 |	Black |	40|
 Red |	31 |	Bold |	1 |	Red |	41|
-Green |	32 	Underline |	2 |	Green |	42|
+Green |	32 |	Underline |	2 |	Green |	42|
 Yellow |	33 |	Negative1 |	3 |	Yellow 	43|
 Blue |	34 |	Negative2 |	5 |	Blue |	44|
 Purple |	35 |	|	|	Purple |	45|
