@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf8 -*-
+
 # Reset
 Color_Off="\033[0m"       # Text Reset
 
