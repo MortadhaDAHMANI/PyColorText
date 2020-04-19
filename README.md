@@ -28,6 +28,19 @@ White |	37 |	|	|	White |	47|
 * [ANSI Escapecodes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html "ANSI Escapecodes")
 * [API](https://coloredlogs.readthedocs.io/en/latest/api.html "API")
 
-## Revision History
-* Initial Release : 01 Apr 2020
-* This version has been adapted: Mr Med Ali Mortadha DAHMANI, MAMD-2020.
+
+### Donation
+If this project help you, you can give me a tip ;)
+
+<a href="https://paypal.me/mamdpay" rel="In"> <img src="https://www.pngarts.com/files/4/Paypal-Donate-PNG-High-Quality-Image.png" alt="Donation" height="70"></a>
+
+### Author
+* This version has been created by: [**Mortadha DAHMANI**](mailto:mortadha.dahmani@gmail.com)
+
+<a href="https://www.linkedin.com/in/mortadhadahmani" rel="In"> <img src="https://github.com/MortadhaDAHMANI/Py-SIM800L/raw/master/in2.jpg" alt="In" height="40"></a>
+
+### Revision History
+* Initial Release : 01 April 2020
+
+### License
+* PyColorText is distributed under the **LGPL** version 3 license.
