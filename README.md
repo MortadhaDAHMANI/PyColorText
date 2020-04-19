@@ -1,4 +1,4 @@
-# PyColorText
+# PyColorText :computer:
 
 ## Preview
 
