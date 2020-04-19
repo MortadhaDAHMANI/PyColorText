@@ -43,4 +43,4 @@ If this project help you, you can give me a tip ;)
 * Initial Release : 01 April 2020
 
 ### License
-* PyColorText is distributed under the **LGPL** version 3 license.
+* _PyColorText_ is distributed under the **LGPL** version 3 license.
